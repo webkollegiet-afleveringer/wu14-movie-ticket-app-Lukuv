@@ -50,5 +50,4 @@ Formålet med opgaven er at:
 
 ## Live Demo
 
-> Indsæt link til jeres hostede version her, fx:
-> [https://biografbooking.netlify.app](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> [https://lukuvbiografticket.netlify.app](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
