@@ -50,4 +50,4 @@ Formålet med opgaven er at:
 
 ## Live Demo
 
-> [https://comfy-pasca-20b3c9.netlify.app/](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+> [https://lukuvbiografticket.netlify.app](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
